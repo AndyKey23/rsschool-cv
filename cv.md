@@ -9,6 +9,7 @@ COURSES
 “Development of mobile applications (IOS)”  
 TeachMeSkills academy (October 2020 – until now)
 Intro to App Development with SWIFT (online course, September – November 2020)
+"Software testing" EPAM SYSTEMS (november 2020 - april 2021)
 “Software testing introduction” EPAM (November – December 2020)
 “Basic Web and SQL for software testing” and “Software testing” 
 IT academy SKILLUP (January-March 2020)
